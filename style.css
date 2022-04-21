@@ -411,7 +411,7 @@ hr{
     position: relative;
 } */
 
-/ * #parallax2::after{
+/* #parallax2::after{
     content: '';
     width: 100%;
     height: 64em;
